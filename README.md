@@ -12,3 +12,4 @@ I work with the following languages:
 - Node.js/Express
 - MongoDB
 
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFwOHFpcm9scHFiYjBkOGRnbWhvYzhsOGlkeWI3cGo4NDgyanB1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif)
