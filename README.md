@@ -5,6 +5,7 @@
 I learn new topics and expand my skills every day. 
 I work with the following languages: 
 
+💻📱
 - HTML 
 - CSS
 - JavaScript
